@@ -1,0 +1,9 @@
+name: "mysimpleplugin"
+version: 1.0
+api-version: 1.20
+main: fr.devnetwork.mysimpleplugin.Main
+commands:
+  broadcast:
+    description: for message send all player
+    aliases:
+      - bc
