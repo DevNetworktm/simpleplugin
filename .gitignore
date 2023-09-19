@@ -1,3 +1,6 @@
+server/world/
+
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -38,5 +41,25 @@ bin/
 ### VS Code ###
 .vscode/
 
+.idea
+
 ### Mac OS ###
 .DS_Store
+
+server/banned-ips.json
+server/banned-players.json
+server/bukkit.yml
+server/bundler/
+server/commands.yml
+server/crash-reports/
+server/eula.txt
+server/help.yml
+server/ops.json
+server/permissions.yml
+server/server.properties
+server/spigot.yml
+server/usercache.json
+server/whitelist.json
+server/world_nether/
+server/world_the_end/
+server/logs/
